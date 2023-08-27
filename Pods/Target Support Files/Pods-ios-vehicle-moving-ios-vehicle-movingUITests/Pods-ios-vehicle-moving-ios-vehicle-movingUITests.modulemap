@@ -1,0 +1,6 @@
+framework module Pods_ios_vehicle_moving_ios_vehicle_movingUITests {
+  umbrella header "Pods-ios-vehicle-moving-ios-vehicle-movingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
